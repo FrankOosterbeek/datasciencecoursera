@@ -1,2 +1,2 @@
 # datasciencecoursera
-First Project for Data Science xourse
+First Project for Data Science course
